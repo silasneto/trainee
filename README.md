@@ -1,2 +1,3 @@
 # trainee
-aprendendo
+Aprendendo
+Iniciando aprendizado à programação.
